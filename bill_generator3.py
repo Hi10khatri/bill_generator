@@ -261,7 +261,7 @@ while True:
                         f.write(return_data)
                         f.write(",")
                 print(cust_list)
-                print("total = ", sum(tmp_net_price) )
+#                 print("total = ", sum(tmp_net_price) )
                 break
 
             elif med_name_cust == 1:  
